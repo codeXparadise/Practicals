@@ -1,0 +1,5 @@
+# Ignore binary executables
+*.exe
+
+# Ignore personal details file
+details.txt
