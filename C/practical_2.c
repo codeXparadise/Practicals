@@ -20,7 +20,7 @@ void main()
     int a = 10, b = 5;
 
     // Clear screen for Turbo C
-    clrscr();
+    // clrscr();
 
     printf("=========================================\n");
     printf("   PRACTICAL 2: ARITHMETIC & LOGICAL     \n");

@@ -1,10 +1,10 @@
-/* 
+/*
  * Practical 5 (A): Maximum of Three Numbers using if-else
- * 
- * Definition: 
- * Compares three user-provided integer values using conditional 'if-else if-else' 
+ *
+ * Definition:
+ * Compares three user-provided integer values using conditional 'if-else if-else'
  * structures to determine the greatest value.
- * 
+ *
  * Example:
  * Input : a = 12, b = 25, c = 7
  * Output: Biggest using if-else: 25

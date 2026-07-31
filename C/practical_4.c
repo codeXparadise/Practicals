@@ -1,13 +1,13 @@
-/* 
+/*
  * Practical 4: Area and Volume of Shapes
- * 
- * Definition: 
+ *
+ * Definition:
  * Calculates geometric metrics for 2D and 3D shapes:
  * - Area of Circle    = PI * r * r
  * - Area of Rectangle = length * width
  * - Volume of Sphere  = (4/3) * PI * r^3
  * - Volume of Box     = length * width * height
- * 
+ *
  * Example:
  * Given radius = 3, length = 4, width = 5, height = 6:
  * - Circle Area = 28.26
@@ -24,7 +24,7 @@ void main()
     float circleArea, rectArea, sphereVol, boxVol;
 
     // Clear screen for Turbo C
-    clrscr();
+    // clrscr();
 
     printf("=========================================\n");
     printf("   PRACTICAL 4: AREA & VOLUME OF SHAPES  \n");

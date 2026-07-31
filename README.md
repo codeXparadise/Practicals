@@ -2,7 +2,6 @@
 
 Welcome to the **College Computer Practicals Repository**. This repository contains fully documented, clean, and Turbo C-compatible C programming practicals, as well as SQL lab queries for easy reference and college submission.
 
----
 
 ## 💻 C Language Practicals Index
 
@@ -45,10 +44,9 @@ Dedicated index for database & SQL query lab practicals.
 
 | Practical No. | Topic / Query Description | Key Concepts Covered | File Link |
 | :--- | :--- | :--- | :---: |
-| **SQL Practical 1** | Lab Queries (28 July 2026) | Table creation, Insert statements, Basic selection | [28_July_2026.sql](./sql/28_July_2026.sql) |
-| **SQL Practical 2** | Selection Queries | `SELECT`, `WHERE` filtering, column aliasing & ordering | [sql_lab_4_practical.sql](./sql/sql_lab_4_practical_selecting_query.sql) |
-| **SQL Practical 3** | *Future SQL Practical* | *Upcoming database queries will be added here* | *Pending* |
-| **SQL Practical 4** | *Future SQL Practical* | *Upcoming database queries will be added here* | *Pending* |
+| **SQL Practical 1** | Bank Database Operations | Table creation, Foreign Keys, Insert, Basic selection & Join filtering | [practical_1.sql](./SQL/practical_1.sql) |
+| **SQL Practical 2** | Company Database & Selection Queries | Table creation (Job & Employee), `SELECT` with `WHERE`, Aliasing (`AS`), `LIKE` pattern | [practical_2.sql](./SQL/practical_2.sql) |
+| **SQL Practical 3** | Library & Employee Databases | DDL/DML (`UPDATE`, `DELETE`), Aggregates (`COUNT`, `MAX`, `MIN`, `AVG`, `SUM`), `GROUP BY`, `HAVING`, `ORDER BY`, `LIMIT` | [practical_3.sql](./SQL/practical_3.sql) |
 
 ---
 
