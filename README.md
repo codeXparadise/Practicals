@@ -9,16 +9,16 @@ All C programs include **concept definitions**, **real-world examples**, **uncom
 
 | Practical No. | Topic / Title | Description & Logic | File Link |
 | :--- | :--- | :--- | :---: |
-| **Practical 1** | Pseudo Code & Flowchart | Algorithm & Flowchart for Max of 3 numbers & Sum of N numbers | [practical_1.pdf](./C/practical_1.pdf) |
-| **Practical 2** | Arithmetic & Logical Operators | Demonstration of `+`, `-`, `*`, `/`, `%` and `&&`, `||`, `!` | [practical_2.c](./C/practical_2.c) |
-| **Practical 3** | Formatted Data Types I/O | Reading and printing `char`, `int`, and `float` variables | [practical_3.c](./C/practical_3.c) |
-| **Practical 4** | Area & Volume Calculations | Calculate area of Circle/Rectangle and volume of Sphere/Box | [practical_4.c](./C/practical_4.c) |
-| ↳ **Practical 5 (A)** | Max of 3 (`if-else`) | Finding maximum among 3 numbers using conditional `if-else` | [practical_5a.c](./C/practical_5a.c) |
-| ↳ **Practical 5 (B)** | Max of 3 (`Ternary`) | Finding maximum using inline ternary operator `(?:)` | [practical_5b.c](./C/practical_5b.c) |
-| **Practical 6** | Multiplication Table | Generating table for a given number using `for` loop | [practical_6.c](./C/practical_6.c) |
-| **Practical 7** | Increment & Decrement | Demonstrating Pre (`++x`, `--x`) and Post (`x++`, `x--`) operators | [practical_7.c](./C/practical_7.c) |
-| **Practical 8** | Even or Odd Check | Checking number parity using modulus operator `% 2` | [practical_8.c](./C/practical_8.c) |
-| **Practical 9** | Positive, Negative or Zero | Determining number sign using multi-branch conditional checks | [practical_9.c](./C/practical_9.c) |
+| **Practical 1** | Pseudo Code & Flowchart | Algorithm & Flowchart for Max of 3 numbers & Sum of N numbers | [practical_01.pdf](./C/practical_01.pdf) |
+| **Practical 2** | Arithmetic & Logical Operators | Demonstration of `+`, `-`, `*`, `/`, `%` and `&&`, `||`, `!` | [practical_02.c](./C/practical_02.c) |
+| **Practical 3** | Formatted Data Types I/O | Reading and printing `char`, `int`, and `float` variables | [practical_03.c](./C/practical_03.c) |
+| **Practical 4** | Area & Volume Calculations | Calculate area of Circle/Rectangle and volume of Sphere/Box | [practical_04.c](./C/practical_04.c) |
+| ↳ **Practical 5 (A)** | Max of 3 (`if-else`) | Finding maximum among 3 numbers using conditional `if-else` | [practical_05a.c](./C/practical_05a.c) |
+| ↳ **Practical 5 (B)** | Max of 3 (`Ternary`) | Finding maximum using inline ternary operator `(?:)` | [practical_05b.c](./C/practical_05b.c) |
+| **Practical 6** | Multiplication Table | Generating table for a given number using `for` loop | [practical_06.c](./C/practical_06.c) |
+| **Practical 7** | Increment & Decrement | Demonstrating Pre (`++x`, `--x`) and Post (`x++`, `x--`) operators | [practical_07.c](./C/practical_07.c) |
+| **Practical 8** | Even or Odd Check | Checking number parity using modulus operator `% 2` | [practical_08.c](./C/practical_08.c) |
+| **Practical 9** | Positive, Negative or Zero | Determining number sign using multi-branch conditional checks | [practical_09.c](./C/practical_09.c) |
 | **Practical 10** | Grade Calculation | Multi-way grade allocation using `else-if` ladder | [practical_10.c](./C/practical_10.c) |
 | **Practical 11** | Sum of Digits | Extracting and summing digits of an integer (`% 10` & `/ 10`) | [practical_11.c](./C/practical_11.c) |
 | ↳ **Practical 12** | Sum of N Numbers (`Recursion`) | Recursive cumulative sum of first N natural numbers | [practical_12.c](./C/practical_12.c) |
